@@ -1,5 +1,0 @@
-gunicorn
-Flask
-numpy
-keras
-tensorflow
