@@ -1,0 +1,7 @@
+app.py
+gunicorn
+numpy
+flask
+keras
+werkzeug
+tensorflow
