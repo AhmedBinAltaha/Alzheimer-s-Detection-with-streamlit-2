@@ -1,0 +1,5 @@
+gunicorn
+Flask
+numpy
+keras == 2.13.1
+tensorflow == 2.13.0
